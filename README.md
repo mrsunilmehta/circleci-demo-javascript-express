@@ -161,7 +161,7 @@ docker-compose build
 docker-compose up
 ```
 
-### Make your MERN
+### Make your MERN 123
 In this version, we enabled the `mern-cli` to clone not only this project but also the variants of `mern-starter` like one project with MaterialUI or JWT auth. To make your version of MERN, follow these steps
 
 1. Clone this project
